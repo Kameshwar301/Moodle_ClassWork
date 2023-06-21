@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bree+Serif&family=Courgette&family=DM+Sans&family=Indie+Flower&family=Kablammo&family=Palanquin+Dark:wght@700&family=Parisienne&family=Playfair+Display&family=Style+Script&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bree+Serif&family=Courgette&family=DM+Sans&family=Indie+Flower&family=Kablammo&family=Palanquin+Dark:wght@700&family=Parisienne&family=Playfair+Display&family=Roboto:wght@100&family=Style+Script&family=Varela+Round&display=swap');
+.lays{
+    width:18rem;
+    position: relative;
+    top: 20%;
+    left: 600px;
+}
+.fitas{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bdyback{
+    background-color: #f6c56e;
+    color: #323f4b;
+    border-radius: 10px;
+}
+.bck{
+background-color: #ffffff;
+font-family: 'Roboto', sans-serif;
+font-weight: bolder;
+}
+h5{
+font-family: 'Bree Serif', serif;
+}
+.textback{
+font-family: 'Roboto', sans-serif;
+font-weight: bolder;
+}
