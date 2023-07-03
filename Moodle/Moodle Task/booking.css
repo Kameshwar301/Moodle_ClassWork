@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bree+Serif&family=Caveat:wght@500;700&family=Courgette&family=DM+Sans&family=Indie+Flower&family=Kablammo&family=Palanquin+Dark:wght@700&family=Parisienne&family=Playfair+Display&family=Roboto:ital,wght@0,100;0,300;0,500;1,500&family=Sacramento&family=Style+Script&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bree+Serif&family=Caveat:wght@500;700&family=Courgette&family=DM+Sans&family=Indie+Flower&family=Kablammo&family=Palanquin+Dark:wght@700&family=Parisienne&family=Playfair+Display&family=Roboto:ital,wght@0,100;0,300;0,500;1,500&family=Sacramento&family=Style+Script&family=Varela+Round&display=swap');
+.container-fluid{
+    height: 100vh;
+    width: 100%;
+}
+
+@media screen and (max-width:548px){
+    .text-bg-dark{
+        background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .text-bg-dark .img-overlay{
+        position: relative;
+        top: -300px;
+        left: 20px;
+        width: 70vw;
+        padding: 5px 15px;
+        color:#ffffff;
+        background-color: #000000e6;
+        font-family: 'Bree Serif', serif;
+        border-radius: 10px;
+    }
+    .text-bg-dark .card_text{
+        font-family: 'Roboto', sans-serif;
+    }
+    .btn-primary{
+        background-color:none;
+    }
+    .booknow{
+        position: relative;
+        top: -270px;
+        left: 100px;
+    }
+}
+@media only screen and (min-width:549px) and (max-width:1280px){
+    .text-bg-dark{
+        background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .text-bg-dark .img-overlay{
+        position: relative;
+        top: -300px;
+        left: 20px;
+        width: 70vw;
+        padding: 5px 15px;
+        color:#ffffff;
+        background-color: #000000e6;
+        font-family: 'Bree Serif', serif;
+        border-radius: 10px;
+    }
+    .text-bg-dark .card_text{
+        font-family: 'Roboto', sans-serif;
+    }
+    .btn-primary{
+        background-color:none;
+    }
+    .booknow{
+        position: relative;
+        top: -270px;
+        left: 100px;
+    }
+
+}

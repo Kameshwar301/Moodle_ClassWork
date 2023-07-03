@@ -1,0 +1,40 @@
+.slide{
+    height: 60vh;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    top:20px;
+    left: 1%;
+      
+}
+.imglen{
+    height: 60vh;
+    width: 100%;
+}
+img{
+    background-size: cover;
+    height: 60vh;
+}
+.carousel .carousel-indicators button{
+height: 10px;
+width: 10px;
+background-color: blue;
+}
+.mark_top{
+    margin-top: 40px !important;
+    height: 20%;
+ }
+.card{
+    display: flex;
+    margin-left: 20px;
+}
+.mark_One{
+    position: relative;
+    top: -256px;
+    left: 100%;
+}
+.mark_Two{
+    position: relative;
+    top: -476px;
+    left: 200%;
+}
