@@ -1,0 +1,92 @@
+.navbar{
+    background-color: aqua;
+}
+@media screen and (max-width:575px){
+    .firstLetter{
+        border: 3px solid white;
+        width: 50px;
+        text-align: center;
+        font-weight: bold;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .firstLetter{
+        border: 3px solid white;
+        width: 50px;
+        text-align: center;
+        font-weight: lighter;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .navbar{
+        background-color: rgb(255, 0, 238);
+    }
+    .firstLetter{
+        border: 3px solid white;
+        width: 50px;
+        text-align: center;
+        font-weight: bold;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
+@media only screen and (min-width:992px) and (max-width:1999px){
+    .navbar{
+        background-color: rgb(0, 255, 94);
+    }
+    .firstLetter{
+        border: 3px solid white;
+        width: 50px;
+        text-align: center;
+        font-weight: bold;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
+@media only screen and (min-width:992px) and (max-width:1999px){
+    .navbar{
+        background-color: rgb(234, 255, 0);
+    }
+    .firstLetter{
+        border: 3px solid white;
+        width: 50px;
+        text-align: center;
+        font-weight: bold;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .ctext{
+        font-weight: 800;
+    }
+
+}
+@media only screen and (min-width:1200px){
+    .navbar{
+        background-color: aqua;
+    }
+    .firstLetter{
+        border: 3px solid white;
+        width: 50px;
+        text-align: center;
+        font-weight: bold;
+        border-radius: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .ctext{
+        font-weight: 800;
+    }
+
+}

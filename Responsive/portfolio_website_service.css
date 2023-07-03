@@ -1,0 +1,22 @@
+body{
+    background-color: #52606d;
+}
+.header_service{
+    color:#cced00 ;
+}
+.header_what{
+    color: #ffffff;
+}
+.row{
+    width: 100%;
+}
+.card{
+background-color: #323f4b;
+width: 100%;
+}
+.card .card-body .card-title{
+    color: #ffffff;
+}
+.card .card-body .card-text{
+    color: #9aa5b1;
+}

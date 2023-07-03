@@ -1,0 +1,25 @@
+body{
+    background-color: #3e4c59;
+}
+.row{
+    width: 100%;
+}
+.card{
+    width: 100%;
+    background-color: #323f4b;
+}
+.header_portfolio{
+    color: #cced00;
+}
+.header_projects{    
+    color: #ffffff;
+}
+.card .card-body .card-title{
+    color: #9aa5b1;
+}
+.card .card-body .card-text{
+    color: #9aa5b1;
+}
+.card .card-body .card-link{
+    color: #cced00;
+}

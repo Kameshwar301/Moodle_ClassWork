@@ -1,0 +1,15 @@
+.card{
+    width: 100%;
+}
+.card .card-body{
+    text-align: center; 
+}
+.card .card-body .card-title{
+    color: #1f2933;
+}
+.card .card-body .card-text{
+    color: #7b8794;
+}
+.card .card-body .card-text .fst-italic{
+    color: black;
+}

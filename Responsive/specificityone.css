@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bree+Serif&family=Caveat:wght@500;700&family=Courgette&family=DM+Sans&family=Indie+Flower&family=Kablammo&family=Palanquin+Dark:wght@700&family=Parisienne&family=Playfair+Display&family=Roboto:ital,wght@0,100;0,300;0,500;1,500&family=Sacramento&family=Style+Script&family=Varela+Round&display=swap');
+.contents{
+    height: 30vh;
+    width: 100%;
+    background-color: aquamarine;
+    padding: 10px;
+}
+.name{
+    color:blue;
+}
+.designation{
+    color: rgb(10, 81, 182);
+    font-family: 'Bree Serif', serif;
+}
+.foot{
+    height: 10vh;
+    width: 100%;
+    background-color: blue;
+    padding: 10px;
+}

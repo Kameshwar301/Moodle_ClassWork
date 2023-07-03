@@ -1,0 +1,26 @@
+.card{
+    max-height: 60vh;
+    max-width: 300px;
+    text-align: center;
+}
+.card .card-body .card-title{
+    color: #1f2933;
+}
+.card .one{
+    height: 45vh;
+    width: 200px;
+    padding-left: 50px;
+    padding-right: 5px auto;
+}
+.card .two{
+    height: 45vh;
+    width: 200px;
+    padding-left: 100px;
+    padding-right: 5px auto;
+}
+.card .three{
+    height: 45vh;
+    width: 200px;
+    padding-left: 100px;
+    padding-right: 5px auto;
+}

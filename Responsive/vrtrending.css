@@ -1,0 +1,12 @@
+.card .card-body .border-0{
+    text-decoration: none;
+    font-weight: bold;
+    color: #1754a1;
+}
+.card .card-body .card-title{
+    color: #959ead;
+}
+.card .card-body .card-text{
+    color: #1f2933;
+    font-weight: bold;
+}

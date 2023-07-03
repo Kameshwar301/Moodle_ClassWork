@@ -1,0 +1,12 @@
+.card{
+    width: 100%;
+}
+.card .card-body .card-title{
+    padding-top: 100px;
+}
+.navbar-brand{
+    border: 3px solid white;
+    width: 2vw;
+    text-align: center;
+    font-weight: bold;
+}

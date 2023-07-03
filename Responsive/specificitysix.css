@@ -1,0 +1,13 @@
+.black-text{
+    color: black;
+    font-weight: bold;
+}
+.green-text{
+    color: green;
+}
+#orangeText{
+    color: orange;
+}
+h{
+    color: black !important;
+}
